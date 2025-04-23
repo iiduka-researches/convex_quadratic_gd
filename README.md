@@ -1,4 +1,4 @@
-# Gradient Descent on a Convex Quadratic Function
+# Gradient Descent for Minimizing a Convex Quadratic Function
 最大固有値 $\lambda_{\max}(X) = 100$ をもつ正定値行列
 
 $$
