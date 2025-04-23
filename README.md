@@ -7,7 +7,7 @@ X=
   1 & 0 & 0 & \dots  & 0 \\
   0 & 2 & 0 & \dots  & 0 \\
   0 & 0 & 3 & \dots  & 0 \\
-  \vdots & \vdots & \ddots & \vdots \\
+  \vdots & \vdots & \vdots & \ddots & \vdots \\
   0 & 0 & 0 & \dots  & 100
 \end{pmatrix}
 $$
